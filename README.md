@@ -1,4 +1,4 @@
-# BrokerBotics Chatbot
+# Chatbot for Finance 
 
 ## Requirements
 
